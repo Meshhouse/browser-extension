@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Расширение MeshHouse для браузера",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Показывает кнопку установки предмета на страницах поддерживаемых интеграций.",
+    "description": "Description of the extension."
+  },
+  "buttonTitle": {
+    "message": "Установить через Meshhouse",
+    "description": "Download button title"
+  }
+}

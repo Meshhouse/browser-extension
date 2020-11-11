@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "MeshHouse browser extension",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Shows a install button on supported integrations pages.",
+    "description": "Description of the extension."
+  },
+  "buttonTitle": {
+    "message": "Install via Meshhouse",
+    "description": "Download button title"
+  }
+}

@@ -1,0 +1,15 @@
+.download-meshhouse-button {
+  background-color: rgb(18, 132, 224);
+  color: #fff;
+  padding: 0.5rem 1rem;
+  transition: all 0.3s ease;
+  border-radius: 25rem;
+  display: block;
+  text-align: center;
+}
+
+.download-meshhouse-button:hover {
+  background-color: rgb(13, 106, 182);
+  text-decoration: none;
+  color: #fff;
+}
